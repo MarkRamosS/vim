@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["awesome-vim-colorschemes"] = {
+    loaded = true,
+    path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/awesome-vim-colorschemes",
+    url = "https://github.com/rafi/awesome-vim-colorschemes"
+  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/cmp-nvim-lsp",

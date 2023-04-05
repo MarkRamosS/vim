@@ -12,7 +12,7 @@ return require('packer').startup(function(use)
     }
 
     use 'wbthomason/packer.nvim'
---    use 'https://github.com/rafi/awesome-vim-colorschemes'   
+    use 'https://github.com/rafi/awesome-vim-colorschemes'   
 --    use 'http://github.com/tpope/vim-surround' --" Surrounding ysw)
 --    use 'https://github.com/tpope/vim-commentary' --" For Commenting gcc & gc
 --    use 'https://github.com/vim-airline/vim-airline' --" Status bar
