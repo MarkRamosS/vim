@@ -13,13 +13,13 @@ return require('packer').startup(function(use)
 
     use 'wbthomason/packer.nvim'
     use 'https://github.com/rafi/awesome-vim-colorschemes'   
---    use 'http://github.com/tpope/vim-surround' --" Surrounding ysw)
---    use 'https://github.com/tpope/vim-commentary' --" For Commenting gcc & gc
---    use 'https://github.com/vim-airline/vim-airline' --" Status bar
---    use 'https://github.com/ap/vim-css-color' --" CSS Color Preview
---    use 'https://github.com/tc50cal/vim-terminal' --" Vim Terminal
---    use 'https://github.com/preservim/tagbar' --" Tagbar for code navigation
---    use 'https://github.com/terryma/vim-multiple-cursors' --" CTRL + N for multiple cursors
+    use 'http://github.com/tpope/vim-surround' --" Surrounding ysw)
+    use 'https://github.com/tpope/vim-commentary' --" For Commenting gcc & gc
+    use 'https://github.com/vim-airline/vim-airline' --" Status bar
+    use 'https://github.com/ap/vim-css-color' --" CSS Color Preview
+    use 'https://github.com/tc50cal/vim-terminal' --" Vim Terminal
+    use 'https://github.com/preservim/tagbar' --" Tagbar for code navigation
+    use 'https://github.com/terryma/vim-multiple-cursors' --" CTRL + N for multiple cursors
     use 'https://github.com/preservim/nerdtree' --" NerdTree
     use {
         'nvim-treesitter/nvim-treesitter',

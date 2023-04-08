@@ -139,6 +139,11 @@ _G.packer_plugins = {
     path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/plenary.nvim",
     url = "https://github.com/nvim-lua/plenary.nvim"
   },
+  tagbar = {
+    loaded = true,
+    path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/tagbar",
+    url = "https://github.com/preservim/tagbar"
+  },
   ["telescope.nvim"] = {
     loaded = true,
     path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/telescope.nvim",
@@ -149,10 +154,40 @@ _G.packer_plugins = {
     path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/undotree",
     url = "https://github.com/mbbill/undotree"
   },
+  ["vim-airline"] = {
+    loaded = true,
+    path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/vim-airline",
+    url = "https://github.com/vim-airline/vim-airline"
+  },
+  ["vim-commentary"] = {
+    loaded = true,
+    path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/vim-commentary",
+    url = "https://github.com/tpope/vim-commentary"
+  },
+  ["vim-css-color"] = {
+    loaded = true,
+    path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/vim-css-color",
+    url = "https://github.com/ap/vim-css-color"
+  },
   ["vim-fugitive"] = {
     loaded = true,
     path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/vim-fugitive",
     url = "https://github.com/tpope/vim-fugitive"
+  },
+  ["vim-multiple-cursors"] = {
+    loaded = true,
+    path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/vim-multiple-cursors",
+    url = "https://github.com/terryma/vim-multiple-cursors"
+  },
+  ["vim-surround"] = {
+    loaded = true,
+    path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/vim-surround",
+    url = "http://github.com/tpope/vim-surround"
+  },
+  ["vim-terminal"] = {
+    loaded = true,
+    path = "/home/ir0nh34d/.local/share/nvim/site/pack/packer/start/vim-terminal",
+    url = "https://github.com/tc50cal/vim-terminal"
   }
 }
 
